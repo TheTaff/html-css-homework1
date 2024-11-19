@@ -1,11 +1,16 @@
 body{
-    background-color: mediumaquamarine;
     font-family: 'Times New Roman', Times, serif;
 }
-h1{
+
+header{
+    background-color: aqua;
     text-align:center;
 }
-ol{
-    padding: 5px;
-    margin: 10px;
+main{
+    display: flex
+}
+footer{
+    font-size: 10px;
+    text-align: center;
+    margin: 50px;
 }
