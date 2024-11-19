@@ -1,0 +1,42 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    background-color: rgb(65, 171, 232);
+    border-radius: 18px;
+    padding: 10px;
+    text-align: center;
+    width: 200px;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+.card h2 {
+    font-size: 18px;
+}
+
+.card p {
+    font-size: 14px;
+    color: black;
+    margin-bottom: 15px;
+}
+
+.card button {
+    background-color: blue;
+    color:white;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+}

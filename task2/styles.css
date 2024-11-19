@@ -1,0 +1,16 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    background-color: aqua;
+    text-align:center;
+}
+main{
+    display: flex
+}
+footer{
+    font-size: 10px;
+    text-align: center;
+    margin: 50px;
+}
